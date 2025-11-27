@@ -1,8 +1,46 @@
 {
-  "title": "1111",
+  "title": "The Best Man in Charge",
   "description": "",
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1764274195",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/vg9hku.avif",
+          "https://files.catbox.moe/0c430r.avif",
+          "https://files.catbox.moe/3molpc.avif",
+          "https://files.catbox.moe/lk5bp3.avif",
+          "https://files.catbox.moe/rxammp.avif",
+          "https://files.catbox.moe/jndufg.avif",
+          "https://files.catbox.moe/hj6687.avif",
+          "https://files.catbox.moe/oicuhv.avif",
+          "https://files.catbox.moe/twamv6.avif",
+          "https://files.catbox.moe/3aosn7.avif",
+          "https://files.catbox.moe/0cd5p7.avif",
+          "https://files.catbox.moe/grt32i.avif",
+          "https://files.catbox.moe/oxo0vi.avif",
+          "https://files.catbox.moe/ne4npc.avif",
+          "https://files.catbox.moe/41zgu7.avif",
+          "https://files.catbox.moe/t6boxb.avif",
+          "https://files.catbox.moe/0jgzdd.avif",
+          "https://files.catbox.moe/enhovy.avif",
+          "https://files.catbox.moe/2gwydf.avif",
+          "https://files.catbox.moe/v8nnf6.avif",
+          "https://files.catbox.moe/r4fgu5.avif",
+          "https://files.catbox.moe/ddvjky.avif",
+          "https://files.catbox.moe/f8jhwa.avif",
+          "https://files.catbox.moe/el7rs3.avif",
+          "https://files.catbox.moe/h5uaus.avif",
+          "https://files.catbox.moe/t9uzwa.avif",
+          "https://files.catbox.moe/ggqjhh.avif",
+          ""
+        ]
+      }
+    }
+  }
 }
