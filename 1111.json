@@ -109,31 +109,33 @@
     "4": {
       "title": "Capítulo 04",
       "volume": "",
-      "last_updated": "1765519800",
-      "groups": [
-        "https://files.catbox.moe/x4tx86.avif",
-        "https://files.catbox.moe/xxs62a.avif",
-        "https://files.catbox.moe/6ymrvg.avif",
-        "https://files.catbox.moe/yrq5uh.avif",
-        "https://files.catbox.moe/cz7zqp.avif",
-        "https://files.catbox.moe/okvz6p.avif",
-        "https://files.catbox.moe/4uljg4.avif",
-        "https://files.catbox.moe/zozx9f.avif",
-        "https://files.catbox.moe/8hchjt.avif",
-        "https://files.catbox.moe/dewla0.avif",
-        "https://files.catbox.moe/v4vuyg.avif",
-        "https://files.catbox.moe/u3d9yo.avif",
-        "https://files.catbox.moe/6wg5xv.avif",
-        "https://files.catbox.moe/4rtu8k.avif",
-        "https://files.catbox.moe/crjy0z.avif",
-        "https://files.catbox.moe/q5e5m3.avif",
-        "https://files.catbox.moe/36ufix.avif",
-        "https://files.catbox.moe/zyeg2f.avif",
-        "https://files.catbox.moe/pepoif.avif",
-        "https://files.catbox.moe/7c6r83.avif",
-        "https://files.catbox.moe/ylkzcb.avif",
-        "https://files.catbox.moe/jqzcvm.avif"
-      ]
+      "last_updated": "1765552285",
+      "groups": {
+        "0": [
+          "https://files.catbox.moe/x4tx86.avif",
+          "https://files.catbox.moe/xxs62a.avif",
+          "https://files.catbox.moe/6ymrvg.avif",
+          "https://files.catbox.moe/yrq5uh.avif",
+          "https://files.catbox.moe/cz7zqp.avif",
+          "https://files.catbox.moe/okvz6p.avif",
+          "https://files.catbox.moe/4uljg4.avif",
+          "https://files.catbox.moe/zozx9f.avif",
+          "https://files.catbox.moe/8hchjt.avif",
+          "https://files.catbox.moe/dewla0.avif",
+          "https://files.catbox.moe/v4vuyg.avif",
+          "https://files.catbox.moe/u3d9yo.avif",
+          "https://files.catbox.moe/6wg5xv.avif",
+          "https://files.catbox.moe/4rtu8k.avif",
+          "https://files.catbox.moe/crjy0z.avif",
+          "https://files.catbox.moe/q5e5m3.avif",
+          "https://files.catbox.moe/36ufix.avif",
+          "https://files.catbox.moe/zyeg2f.avif",
+          "https://files.catbox.moe/pepoif.avif",
+          "https://files.catbox.moe/7c6r83.avif",
+          "https://files.catbox.moe/ylkzcb.avif",
+          "https://files.catbox.moe/jqzcvm.avif"
+        ]
+      }
     },
     "5": {
       "title": "Capítulo 05",
